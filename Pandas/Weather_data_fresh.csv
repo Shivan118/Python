@@ -1,0 +1,25 @@
+day,temperature,windspeed,event,city
+01-01-2017,32,6,Rain,mumbai
+02-01-2017,35,7,Sunny,New York
+03-01-207,28,2,Snow,New York
+04-01-2017,24,7,Snow,New York
+05-01-2017,32,4,Rain,mumbai
+06-01-2017,32,2,Sunny,mumbai
+07-01-2017,28,6,Sunny,mumbai
+08-01-2017,24,7,Rain,mumbai
+09-01-2017,36,2,Snow,paris
+10-01-2017,38,5,Sunny,mumbai
+11-01-2017,22,4,Rain,New York
+12-01-2017,26,2,Rain,paris
+13-01-2017,24,8,Sunny,mumbai
+14-01-2017,25,3,Snow,paris
+15-01-2017,29,6,Rain,New York
+16-01-2017,30,7,Snow,mumbai
+17-01-2017,31,5,Sunny,paris
+18-01-2017,20,2,Snow,New York
+19-01-2017,25,6,Sunny,New York
+20-01-2017,28,3,Rain,mumbai
+21-01-2017,29,4,Sunny,paris
+22-01-2017,32,5,Snow,New York
+23-01-2017,21,7,Rain,mumbai
+24-01-2017,27,5,Sunny,paris
